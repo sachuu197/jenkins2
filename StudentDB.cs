@@ -17,7 +17,7 @@ namespace Assignment1
             VeryGood,
             Excellent,
         }
-        int Grade, feedback
+        int Grade, feedback;
         StudentDB(String Stu_Name, int Stu_Age)
         {
             this.Stu_Name = Stu_Name;
